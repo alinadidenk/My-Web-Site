@@ -1,0 +1,52 @@
+body {
+    font-family: 'Lato', Verdana;
+    font-size: 100%;
+    background: rgb(190, 25, 25);
+    text-align: center;
+    margin: auto;
+}
+
+.header {
+    border: 1px;
+    text-align: center;
+    width: 100%;
+}
+
+.header tbody {
+    width: 100vh;
+}
+
+.baner,
+.footer {
+    margin: auto;
+}
+
+.baner img {
+    width: 100%;
+}
+
+.details {
+    background-color: #FFDAB9;
+}
+
+.photo {
+    background-color: #FFDAB9;
+    text-align: center;
+}
+
+.photo img {
+    width: 230px;
+    height: 400px;
+}
+
+.slider {
+    margin: 10px;
+}
+
+.slid div img {
+    width: 1000px;
+}
+
+img {
+    border-radius: 20px;
+}
